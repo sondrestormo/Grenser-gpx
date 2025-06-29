@@ -1,0 +1,8 @@
+flask
+requests
+gpxpy
+shapely
+pandas
+folium
+fastkml
+gunicorn
